@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'o maior vilão dos cinema?',
+    'qual o maior vilão dos cinema?',
     'Darth Vader – Star Wars'
 )
