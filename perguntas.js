@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'qual o filme com maior bilheteria do mundo?',
+    'Avatar (2009) - US$ 2,9 bilhões'
 )
 
 criaCartao(
