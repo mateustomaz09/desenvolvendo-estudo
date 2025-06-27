@@ -14,7 +14,7 @@ criaCartao(
     'Programação',
     'qual o filme mais assistido do mundo?',
     '1- Avatar (2009)'
-)js
+)
 
 criaCartao(
     'Lingua inglesa',
